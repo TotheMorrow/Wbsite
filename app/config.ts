@@ -1,10 +1,10 @@
 export const metaData = {
   baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
+  title: "The Coming of Age of Two Sovereigns",
+  name: "Dylan Yang and Hanwen Zhang",
   ogImage: "/opengraph-image.png",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "Desc",
 };
 
 export const socialLinks = {
@@ -12,5 +12,5 @@ export const socialLinks = {
   github: "https://github.com/1msirius/Nextfolio",
   instagram: "https://www.instagram.com/",
   linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  email: "dyang711@ucsb.edu",
 };
