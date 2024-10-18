@@ -1,16 +1,17 @@
 export const metaData = {
-  baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "The Coming of Age of Two Sovereigns",
+  baseUrl: "https://ForPatrickAndZachary/",
+  title: "Nextfolio",
   name: "Dylan Yang and Hanwen Zhang",
-  ogImage: "/opengraph-image.png",
+  ogImage: "/bricks.JPG",
   description:
-    "Desc",
+    "For two salient hegemons of academics and industry in the making, an approprite birthday celebration must be instated. Here is our attempt to fulfill such a lofty goal.",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "dyang711@ucsb.edu",
+  //twitter: "https://x.com/1tssirius",
+  github: "https://github.com/Dylan-Yangs",
+  instagram: "https://www.instagram.com/dyangyangyangyang/",
+  linkedin: "https://www.linkedin.com/in/dylan-yang-ab8964263/",
+  email: "mailto:dyang711@ucsb.edu",
 };
+
