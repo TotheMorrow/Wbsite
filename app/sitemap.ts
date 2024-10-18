@@ -1,6 +1,15 @@
 import { MetadataRoute } from "next";
 import { getBlogPosts } from "./lib/posts";
 import { metaData } from "./config";
+import { Button } from "@/components/ui/button"
+ 
+export default function Home() {
+  return (
+    <div>
+      <Button>Click me</Button>
+    </div>
+  )
+}
 
 const BaseUrl = metaData.baseUrl.endsWith("/")
   ? metaData.baseUrl

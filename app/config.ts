@@ -14,4 +14,3 @@ export const socialLinks = {
   linkedin: "https://www.linkedin.com/in/dylan-yang-ab8964263/",
   email: "mailto:dyang711@ucsb.edu",
 };
-

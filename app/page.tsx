@@ -17,23 +17,22 @@ export default function Page() {
       </a>
 
       <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Portfolio, made simple!
+        October the 20th of 2024.
       </h1>
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
-          Vercel, and Tailwind CSS for optimal performance.
+          A significant date shared by two who grant it its spirituality.
         </p>
         <p>
-          Nextfolio includes all the essentials for a stunning portfolio: SEO,
-          MDX support, RSS, Atom, & JSON feeds, analytics, tweet & YouTube
-          embeds, KaTeX integration, and{" "}
+          There can be no limit on the joviality of this day. Rejoice! You may be touched!
+          What more could man wish for? Alcohol? A driving license? That cannot be. Upon you
+          we wish health and prosperity. Of course, we are{" "}
           <a
             target="_blank"
             href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
           >
-            more
+           Never Gonna Give You Up
           </a>
           .
         </p>
