@@ -30,18 +30,11 @@ export default function Page() {
           we wish health and prosperity. Of course, we are{" "}
           <a
             target="_blank"
-            href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           >
            Never Gonna Give You Up
           </a>
           .
-        </p>
-        <p>
-          Nextfolio is{" "}
-          <a href={socialLinks.github} target="_blank">
-            open-source
-          </a>{" "}
-          and fully customizable, making it easy to add more features.
         </p>
         <p>
           <a
@@ -56,8 +49,8 @@ export default function Page() {
         </p>
         <p>
           Built and maintained by{" "}
-          <a href="https://imsirius.xyz/" target="_blank">
-            Sirius
+          <a href="https://about.me/dylanyang" target="_blank">
+            Dylan Yang
           </a>
           .
         </p>

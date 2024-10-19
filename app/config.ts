@@ -1,6 +1,6 @@
 export const metaData = {
   baseUrl: "https://ForPatrickAndZachary/",
-  title: "Nextfolio",
+  title: "A Brilliant Birthday for Bright, Beautiful, and Benevolent Biunit Bachelors",
   name: "Dylan Yang and Hanwen Zhang",
   ogImage: "/bricks.JPG",
   description:
